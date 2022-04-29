@@ -1,0 +1,24 @@
+body{
+    background-image: url(./Assets/5570863.jpg);
+    background-size: 100%;
+}
+nav{
+    color: black;
+}
+
+a{
+    color: black;
+    font-family: 'Bitter', serif;
+}
+
+h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 70px;
+}
+.btn{
+    font-family: 'Bitter', serif;
+}
+.intro-size{
+    font-family: 'Bitter', serif;
+    font-size: 20px;
+}
